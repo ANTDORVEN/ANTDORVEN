@@ -8,19 +8,18 @@ Soy un profesional de la salud con una gran pasión por la tecnología. Actualme
 
 **Habilidades:**
 
-* **Sector sanitario:** [Enumera tus habilidades y experiencia en el área sanitaria, por ejemplo, atención al paciente, procedimientos médicos, etc.]
-* **Desarrollo web:** [Enumera las habilidades de programación que estás adquiriendo o que ya dominas, por ejemplo, HTML, CSS, JavaScript, frameworks, etc.]
+* **Sector sanitario:** Soy TES y TCAE, en este tiempo me he estado formando con grandes profesionales y compañeros del sector.
+* **Desarrollo web:** Actualmente estoy estudiando DAW, pero me estado formando didacticamente y atraves de cursos, sobre HTML, CSS, GIT Y GITHUB, COPILOT, JAVA Y JAVASCRIPT, PYTHON...
 * **Soft skills:** Aprendizaje rápido, resolución de problemas, trabajo en equipo, orientación al detalle.
 
 **Proyectos:**
 
-* **[Nombre del proyecto 1]:** [Breve descripción del proyecto, enfocado en cómo combina tus conocimientos en salud y tecnología]
-* **[Nombre del proyecto 2]:** [Breve descripción del proyecto, enfocado en cómo contribuye a la mejora de la salud o el bienestar]
+* **
 
 **Contacto:**
 
-* **Correo electrónico:** [Tu correo electrónico]
-* **LinkedIn:** [Tu perfil de LinkedIn]
+* **Correo electrónico:** antonio_molle@hotmail.es
+* **LinkedIn:** www.linkedin.com/in/antonio-dorante-venegas-aa741a1b3
 
 **Intereses:**
 
